@@ -1,5 +1,3 @@
-# journey-ai-engineering
-Perjalanan saya belajar AI Engineering dari nol
 # Journey AI Engineering
 
 Ini adalah dokumentasi perjalanan saya belajar AI Engineering dari nol.
